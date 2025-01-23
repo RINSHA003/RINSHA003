@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **html,css,javascript,typescript,material ui,tailwind,react,redux,asp.net core webapi,entity framework,mssql**
 
-- 📫 How to reach me **rinshapfathima9@gmail.com**
+- ✉️ How to reach me **rinshapfathima9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
