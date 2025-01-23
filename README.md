@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rinsha003&label=Profile%20views&color=0e75b6&style=flat" alt="rinsha003" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rinsha003" alt="rinsha003" /></a> </p>
-
-- 🔭 I’m currently working on [tiffinmate](https://tiffinmate.online/)
+- 🔭 I’m currently working on [BRIDGEON SOLUTIONS LLP](https://bridgeon.in/)
 
 - 🌱 I’m currently learning **DOTNET WEB DEVELOPMENT**
 
